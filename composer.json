@@ -1,0 +1,19 @@
+{
+    "name": "gabriel/skandimarket",
+    "type": "project",
+    "require": {
+        "coffeecode/router": "^1.0",
+        "coffeecode/datalayer": "^1.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Gabriel\\Skandimarket\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gabriel Pelincel Rmalho",
+            "email": "gabrielpelincel@gmail.com"
+        }
+    ]
+}
